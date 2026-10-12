@@ -34,7 +34,7 @@ function Tile({ a, k, active, onClick }: { a: Analysis; k: MetricKey; active: bo
       <span className="k">{m.title}</span>
       <span className="v">{num(t.mean, 1)} <small>{m.unit}</small></span>
       <span className="d">
-        {pc ? `${num(pc.early_mean, 1)} → ${num(pc.late_mean, 1)} (${pc.early_period[0]}s → ${pc.late_period[0]}s)` : 'Not enough data'}
+        {pc ? `${num(pc.early_mean, 1)} → ${num(pc.late_mean, 1)} (${pc.early_period[0]}–${String(pc.early_period[1]).slice(2)} → ${pc.late_period[0]}–${String(pc.late_period[1]).slice(2)})` : 'Not enough data'}
       </span>
       <span>{trendBadge(a, k)}</span>
     </button>

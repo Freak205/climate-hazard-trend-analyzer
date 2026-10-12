@@ -72,7 +72,7 @@ def build_insights(trends: dict[str, dict], first_year: int, last_year: int) -> 
         if pct is not None:
             verb = "increased" if days["direction"] == "increase" else "decreased"
             pc = trends["days"]["period_change"]
-            detail = f" ({_fmt(pc['early_mean'])} → {_fmt(pc['late_mean'])} days per year, {pc['early_period'][0]}s vs {pc['late_period'][0]}s)"
+            detail = f" ({_fmt(pc['early_mean'])} → {_fmt(pc['late_mean'])} days per year, {pc['early_period'][0]}–{pc['early_period'][1]} vs {pc['late_period'][0]}–{pc['late_period'][1]})"
             headline = f"Heatwave days have {verb} by {abs(pct):.0f}% in this region between {first_year} and {last_year}{detail}."
         else:
             verb = "increased" if days["direction"] == "increase" else "decreased"
