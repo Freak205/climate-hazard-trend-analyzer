@@ -11,7 +11,7 @@ duration / intensity time series, an interactive map and charts, and plain-langu
 * **Database (NoSQL):** MongoDB (Atlas free tier works) when `MONGODB_URI` is set; a JSON-document store otherwise
 * **Deploy target:** Vercel (static frontend + one Python serverless function)
 
-> Live app: _fill in after `vercel --prod`_ · Repo: _fill in_ · Demo video (optional): _fill in_
+> Live app: https://climate-hazard-trend-analyzer-one.vercel.app · Repo: https://github.com/Freak205/climate-hazard-trend-analyzer · Demo video (optional): not provided
 
 ---
 
