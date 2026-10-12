@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest>=8
+mongomock>=4.2
+uvicorn>=0.30

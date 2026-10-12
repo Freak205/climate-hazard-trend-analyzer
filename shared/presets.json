@@ -1,0 +1,286 @@
+{
+ "cities": [
+  {
+   "name": "Delhi",
+   "admin1": "Delhi",
+   "country": "India",
+   "lat": 28.61,
+   "lon": 77.21
+  },
+  {
+   "name": "Mumbai",
+   "admin1": "Maharashtra",
+   "country": "India",
+   "lat": 19.08,
+   "lon": 72.88
+  },
+  {
+   "name": "Chennai",
+   "admin1": "Tamil Nadu",
+   "country": "India",
+   "lat": 13.08,
+   "lon": 80.27
+  },
+  {
+   "name": "Kolkata",
+   "admin1": "West Bengal",
+   "country": "India",
+   "lat": 22.57,
+   "lon": 88.36
+  },
+  {
+   "name": "Bengaluru",
+   "admin1": "Karnataka",
+   "country": "India",
+   "lat": 12.97,
+   "lon": 77.59
+  },
+  {
+   "name": "Hyderabad",
+   "admin1": "Telangana",
+   "country": "India",
+   "lat": 17.39,
+   "lon": 78.49
+  },
+  {
+   "name": "Ahmedabad",
+   "admin1": "Gujarat",
+   "country": "India",
+   "lat": 23.02,
+   "lon": 72.57
+  },
+  {
+   "name": "Jaipur",
+   "admin1": "Rajasthan",
+   "country": "India",
+   "lat": 26.91,
+   "lon": 75.79
+  },
+  {
+   "name": "Nagpur",
+   "admin1": "Maharashtra",
+   "country": "India",
+   "lat": 21.15,
+   "lon": 79.09
+  },
+  {
+   "name": "Phoenix",
+   "admin1": "Arizona",
+   "country": "United States",
+   "lat": 33.45,
+   "lon": -112.07
+  },
+  {
+   "name": "Madrid",
+   "admin1": "Madrid",
+   "country": "Spain",
+   "lat": 40.42,
+   "lon": -3.7
+  },
+  {
+   "name": "Cairo",
+   "admin1": "Cairo",
+   "country": "Egypt",
+   "lat": 30.04,
+   "lon": 31.24
+  },
+  {
+   "name": "London",
+   "admin1": "England",
+   "country": "United Kingdom",
+   "lat": 51.51,
+   "lon": -0.13
+  },
+  {
+   "name": "Sydney",
+   "admin1": "New South Wales",
+   "country": "Australia",
+   "lat": -33.87,
+   "lon": 151.21
+  },
+  {
+   "name": "São Paulo",
+   "admin1": "São Paulo",
+   "country": "Brazil",
+   "lat": -23.55,
+   "lon": -46.63
+  },
+  {
+   "name": "Tokyo",
+   "admin1": "Tokyo",
+   "country": "Japan",
+   "lat": 35.68,
+   "lon": 139.69
+  }
+ ],
+ "states": [
+  {
+   "name": "Rajasthan",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 27.0,
+   "lon": 74.2
+  },
+  {
+   "name": "Gujarat",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 22.3,
+   "lon": 71.7
+  },
+  {
+   "name": "Maharashtra",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 19.5,
+   "lon": 76.0
+  },
+  {
+   "name": "Uttar Pradesh",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 26.8,
+   "lon": 80.9
+  },
+  {
+   "name": "Madhya Pradesh",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 23.5,
+   "lon": 78.0
+  },
+  {
+   "name": "Tamil Nadu",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 11.1,
+   "lon": 78.7
+  },
+  {
+   "name": "Karnataka",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 14.5,
+   "lon": 76.0
+  },
+  {
+   "name": "Andhra Pradesh",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 15.9,
+   "lon": 79.7
+  },
+  {
+   "name": "Telangana",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 17.9,
+   "lon": 79.1
+  },
+  {
+   "name": "Kerala",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 10.4,
+   "lon": 76.4
+  },
+  {
+   "name": "Odisha",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 20.5,
+   "lon": 84.4
+  },
+  {
+   "name": "West Bengal",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 23.0,
+   "lon": 87.9
+  },
+  {
+   "name": "Bihar",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 25.7,
+   "lon": 85.6
+  },
+  {
+   "name": "Punjab",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 31.0,
+   "lon": 75.3
+  },
+  {
+   "name": "Haryana",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 29.1,
+   "lon": 76.3
+  },
+  {
+   "name": "Himachal Pradesh",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 31.9,
+   "lon": 77.2
+  },
+  {
+   "name": "Uttarakhand",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 30.1,
+   "lon": 79.2
+  },
+  {
+   "name": "Jharkhand",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 23.6,
+   "lon": 85.3
+  },
+  {
+   "name": "Chhattisgarh",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 21.3,
+   "lon": 81.8
+  },
+  {
+   "name": "Assam",
+   "admin1": "State (centre point)",
+   "country": "India",
+   "lat": 26.4,
+   "lon": 92.9
+  },
+  {
+   "name": "Texas",
+   "admin1": "State (centre point)",
+   "country": "United States",
+   "lat": 31.0,
+   "lon": -99.3
+  },
+  {
+   "name": "California",
+   "admin1": "State (centre point)",
+   "country": "United States",
+   "lat": 37.2,
+   "lon": -119.7
+  },
+  {
+   "name": "Arizona",
+   "admin1": "State (centre point)",
+   "country": "United States",
+   "lat": 34.3,
+   "lon": -111.7
+  },
+  {
+   "name": "Florida",
+   "admin1": "State (centre point)",
+   "country": "United States",
+   "lat": 28.6,
+   "lon": -82.4
+  }
+ ]
+}
